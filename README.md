@@ -1,15 +1,7 @@
 <div align="center">
 
-<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@900&family=IM+Fell+English:ital@1&display=swap" rel="stylesheet">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=40&weight=700&duration=4000&pause=1500&color=C8A0FF&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+repository%2C+muggle!)](https://git.io/typing-svg)
 
-<h1 style="font-family:'Cinzel Decorative',serif; font-size:3em; color:#c8a0ff;">
-  Welcome to my repository, muggle!
-</h1>
-
-<p style="font-family:'IM Fell English',serif; font-style:italic; font-size:1.3em; letter-spacing:0.2em; color:#8060b8;">
-  ~ accio projects ~
-</p>
-
-<p>✦ &nbsp; ᚱ ᛖ ᚨ ᛞ ᛗ ᛖ &nbsp; ✦ &nbsp; ᚹ ᛁ ᛉ ᚨ ᚱ ᛞ &nbsp; ✦</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+English&style=italic&size=26&duration=2000&pause=2000&color=8060B8&center=true&vCenter=true&width=800&height=50&lines=%7E+accio+projects+%7E+🪄)](https://git.io/typing-svg)
 
 </div>
