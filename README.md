@@ -1,7 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=200&section=header&text=Welcome%20to%20my%20repository%2C%20muggle!&fontSize=40&fontColor=c8a0ff&animation=fadeIn&fontAlignY=38&desc=~accio%20projects~%20&descAlignY=55&descSize=20)
-<div align="center">
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
-</div>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@900&family=IM+Fell+English:ital@1&display=swap" rel="stylesheet">
 
+<h1 style="font-family:'Cinzel Decorative',serif; font-size:3em; color:#c8a0ff;">
+  Welcome to my repository, muggle!
+</h1>
+
+<p style="font-family:'IM Fell English',serif; font-style:italic; font-size:1.3em; letter-spacing:0.2em; color:#8060b8;">
+  ~ accio projects ~
+</p>
+
+<p>✦ &nbsp; ᚱ ᛖ ᚨ ᛞ ᛗ ᛖ &nbsp; ✦ &nbsp; ᚹ ᛁ ᛉ ᚨ ᚱ ᛞ &nbsp; ✦</p>
+
+</div>
