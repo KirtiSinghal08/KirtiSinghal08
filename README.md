@@ -1,9 +1,7 @@
 <div align="center">
 
-<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@900&family=IM+Fell+English:ital@1&display=swap" rel="stylesheet">
-
-<h1 style="font-family:'Cinzel Decorative',serif; font-size:3em; color:#c8a0ff;">
-  Welcome to my repository, muggle!
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&pause=1000&color=C8A0FF¢er=true&width=600&lines=Welcome+to+my+repository%2C+muggle!"/>
 </h1>
 
 <p style="font-family:'IM Fell English',serif; font-style:italic; font-size:1.3em; letter-spacing:0.2em; color:#8060b8;">
